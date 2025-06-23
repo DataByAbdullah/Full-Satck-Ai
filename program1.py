@@ -1,0 +1,7 @@
+print("Welcome to my First program")
+print(input("Please Enter Your First Name: "))
+print(input("Please Enter Your Last Name: "))
+print(int(input("Please Enter Your Age: ")))
+print(float(input("Please Enter Your Hieght: ")))
+print(input("Please Enter Your class: "))
+print(input("Please Enter Your Institue Name: "))
